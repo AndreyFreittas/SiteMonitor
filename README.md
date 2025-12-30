@@ -34,7 +34,7 @@ Ideal para estudos de networking, scripts CLI ou projetos de automação.
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/AndreyFreittas/SiteMonitor.git
+git clone https://github.com/xyzfreitas/SiteMonitor.git
 cd SiteMonitor
 pip install -r requirements.txt
 pip install requests pyfiglet
